@@ -8,6 +8,9 @@ public class HelloWorld {
         System.out.println("Hello Cydeo");
         System.out.println("Hello programmers");
         System.out.println("Hello java");
+        System.out.println("Hello Python");
+        System.out.println("Hello Dilara");
+        
         
     }
 
